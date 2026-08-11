@@ -22,4 +22,4 @@ Then Click on Pay Option button
 Examples:
 
 |URL                                        |username                 |password          |
-|https://stg.app2food.com/oloweb301/11002/#/|***REMOVED***|***REMOVED***        |
+|https://stg.app2food.com/oloweb301/11002/#/|your_test_email@example.com|your_password   |
